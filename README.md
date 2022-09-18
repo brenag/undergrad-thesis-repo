@@ -1,2 +1,2 @@
 # Attitude Motion Reconstruction
-this repo contains all the code files involved in the development of my undergrad thesis. 
+My undergrad thesis involves developing, simulating and Hardware-in-the-loop testing for attitude estimation methods using in-flight magnetometer data.
