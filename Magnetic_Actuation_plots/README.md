@@ -1,0 +1,2 @@
+Plotting the results of the Helmholtz cage and balance table with magnetorquer mockup. 
+>> Convert the '.csv' named 'experiment.csv' into a '.mat' workspace and then plot it using 'data_helm_cage_exp.m'.
